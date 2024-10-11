@@ -1,0 +1,3 @@
+Customer [customerId=1, customerName=Ankita, contactNumber=99999999]
+Flight [flightId=234, destination=USA, departureTime=1, seatsAvailable=2, ticketPrice=80000.0]
+-------------------------
